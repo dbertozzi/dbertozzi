@@ -23,7 +23,7 @@ currently, i am at CIBC where i am leading development of an app used internally
 
 ## things i'm proud of
 
-- a bike designed is still being ridden by a Pro Tour team in Tour de France, Giro d'italia, and La Vuelta
+- a bike i designed is still being ridden by a Pro Tour team in Tour de France, Giro d'italia, and La Vuelta
 - 5x half ironman finisher (4:36 best time at 2019 Muskoka 70.3)
 - First place finish Kitchener Twilight Grande Prix Criterium (road bike race)
 - Top parsing warrior DPS in World of Warcraft Classic including defeat of final boss, Kel'thuzad
