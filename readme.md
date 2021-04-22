@@ -1,6 +1,6 @@
 # Hi
 
-i am toronto based developer. i discovered my love for code a few years into university when i worked on a fashion social network startup with a few classmates at U of T.
+i am toronto based developer. i discovered my love for code when i worked on a fashion social network startup with a few classmates at U of T.
 
 after completing undergrad i worked at a design consulting company for 5 years that specialized in road and triathlon bikes. while there i was lead engineer for two bicycles that went to market and two web apps that assist with triathlon bike fitting for direct-to-consumer brands.
 
